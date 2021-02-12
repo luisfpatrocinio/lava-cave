@@ -23,3 +23,4 @@ for (var i = 0; i < ds_grid_width(grid); i++) {
 	if (irandom(2) == 0) then _y_atual+= choose(-1, 1);
 	_y_atual = clamp(_y_atual, 0, height-1);
 }
+
