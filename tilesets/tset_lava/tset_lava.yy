@@ -1,5 +1,4 @@
 {
-  "name": "tset_lava",
   "spriteId": {
     "name": "spr_lava_tileset",
     "path": "sprites/spr_lava_tileset/spr_lava_tileset.yy",
@@ -136,6 +135,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tset_lava",
   "tags": [],
   "resourceType": "GMTileSet",
 }
